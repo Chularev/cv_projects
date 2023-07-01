@@ -1,0 +1,11 @@
+/data/
+/old_txt_files/
+/voc_label.py
+/VOCtrainval_11-May-2012.tar
+/VOCtrainval_06-Nov-2007.tar
+/VOCtest_06-Nov-2007.tar.2
+/VOCtest_06-Nov-2007.tar.1
+/VOCtest_06-Nov-2007.tar
+/voc_label.py.1
+/test.csv
+/train.csv
